@@ -52,7 +52,7 @@ const actorFullNamev2 = favActorFirstName + " " + favActorLastName // Robert Dow
 // A4
 const uppercase = actorFullNamev2.toUpperCase() //ROBERT DOWNEY
 // A5
-let message = `My favorite actor is ${actorFullName}` // My favorite actor is Robert Downey
+let message = `My favorite actor is ${actorFullNamev2}` // My favorite actor is Robert Downey
 // A6
 message += ' Im so glad he won an Oscar.'
 
